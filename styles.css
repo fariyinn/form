@@ -12,5 +12,18 @@ h1 {
 .heroBackground img {
     height: 100vh;
     min-width: 640px;
-    width: 40vw; 
+    width: 45vw; 
+}
+
+.heroBackground {
+    position: relative;
+}
+
+.banner {
+    height: 20vh;
+    min-width: 640px;
+    width: 45vw;
+    background-color: rgba(0, 0, 0, 0.7);
+    position: absolute;
+    top: 25vh;
 }
